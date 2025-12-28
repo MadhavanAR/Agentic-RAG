@@ -228,8 +228,6 @@ This project is open source and available for use and modification.
 
 ## Contact
 
-For questions, issues, or contributions, please open an issue on the GitHub repository.
+For questions, issues or contributions, please open an issue on the GitHub repository.
 
 ---
-
-*Last updated: February 2025*
